@@ -1,4 +1,18 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Dheeraj Singh " title="👋 Hi there! I'm Dheeraj "/>
+## 👋  Hi there!  I'm  Dheeraj 
+
+<p align="justify">
+welcome to my GitHub Page. I am Dheeraj singh and now Computer engineering student, 
+ 🚀 Dheeraj Singh | Java Developer Enthusiast 
+ 🌱 Learning Journey: Diving deeper into Advanced Java and exploring the MERN Stack 
+ 👯 Collaboration Goals: Excited to work on practical projects with developers & innovative teams 
+ 💬 Topics I Enjoy: Backend development, MERN stack, and solving real-world tech challenges 
+ 📫 Let’s Connect: ✉️ itzdheerajsingh@gmail.com 
+ 😄 Pronouns: He/Him 
+ ⚡ Fun Side of Me: Tech isn’t just my passion—it feels like tech chose me too! 
+ 💻✨ ✨ Constantly driven to learn, grow, and contribute to meaningful projects. Always open to building something impactful together. make t short notches much text
+</p>
+
+## Social Handles
 <div align="justify">
 
 <a href="https://www.instagram.com/_.mrdheeraj/">
@@ -20,17 +34,6 @@
 
 </div>
 <p></p>
-<p align="justify">
-welcome to my GitHub Page. I am Dheeraj singh and now Computer engineering student, 
- 🚀 Dheeraj Singh | Java Developer Enthusiast 
- 🌱 Learning Journey: Diving deeper into Advanced Java and exploring the MERN Stack 
- 👯 Collaboration Goals: Excited to work on practical projects with developers & innovative teams 
- 💬 Topics I Enjoy: Backend development, MERN stack, and solving real-world tech challenges 
- 📫 Let’s Connect: ✉️ itzdheerajsingh@gmail.com 
- 😄 Pronouns: He/Him 
- ⚡ Fun Side of Me: Tech isn’t just my passion—it feels like tech chose me too! 
- 💻✨ ✨ Constantly driven to learn, grow, and contribute to meaningful projects. Always open to building something impactful together. make t short notches much text
-</p>
 
 ## My favorite tools and technologies ⚙️
 
