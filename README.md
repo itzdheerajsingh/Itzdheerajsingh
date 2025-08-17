@@ -1,7 +1,9 @@
-# 💫 About Me:
-I am currently pursuing engineering , CSE .
-
-
+# 💫 🚀 Dheeraj Singh | Java Developer Enthusiast
+🌱 Learning: Advanced Java & MERN Stack
+👯 Open to: Collaborations & Projects
+💬 Interests: Backend, MERN & Problem-Solving
+📫 Contact: itzdheerajsingh@gmail.com
+⚡ Fun Fact: Tech isn’t just my passion—it feels like tech chose me too! 💻✨
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._dheeraj.___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzdheerajsingh@gmail.com) 
 
