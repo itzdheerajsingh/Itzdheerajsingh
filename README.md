@@ -4,7 +4,7 @@
  - 🌱 Learning Journey: Advanced Java & MERN Stack 
  -  👯 Collaboration Goals: Fullstack projects 
  - ⚡**Tech isn’t just my passion—it feels like tech chose me too!**
- -  📫 Let’s Connect: ✉️ itzdheerajsingh@gmail.com 
+ -  📫 Let’s Connect on given below social media
 </h>
 
 ## Social Handles 🌐
@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/x-000000.svg?style=for-the-badge&logo=x&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.gmail.com/itzdheerajsingh@gmail.com/">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:itzdheerajsingh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://t.me/itsmrdheeraj/">
@@ -59,7 +59,7 @@
     </td>
    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Tailwind CSS
+      <br>Typescript
      </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
