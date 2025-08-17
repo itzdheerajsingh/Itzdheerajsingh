@@ -10,7 +10,7 @@
  - ⚡ Fun Side of Me: Tech isn’t just my passion—it feels like tech chose me too! 
 </h>
 
-## Social Handles
+## Social Handles 🌐
 <div align="justify">
 
 <a href="https://www.instagram.com/_.mrdheeraj/">
@@ -29,7 +29,14 @@
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://www.leetcode.com/_.mrdheeraj/">
+<img src="https://img.shields.io/badge/leetcode-%23E4405F.svg?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.x.com/_.mrdheeraj/">
+<img src="https://img.shields.io/badge/x-%23E4405F.svg?style=for-the-badge&logo=x&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <p></p>
 
