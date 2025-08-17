@@ -30,11 +30,11 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.leetcode.com/mrdheeraj/">
-<img src="https://img.shields.io/badge/leetcode-%23E4405F.svg?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/leetcode-8B4513.svg?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.x.com/mrdheeraj_/">
-<img src="https://img.shields.io/badge/x-%23E4405F.svg?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/x-000000.svg?style=for-the-badge&logo=x&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
