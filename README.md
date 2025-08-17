@@ -1,35 +1,35 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Dheeraj Singh " title="👋 Hi there! I'm Dheeraj "/>
 <div align="justify">
 
-<a href="https://www.instagram.com/rzashakeri/">
+<a href="https://www.instagram.com/_.mrdheeraj/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@rzashakeri">
+<a href="https://www.youtube.com/@spark_bold">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rezshakeri/">
+<a href="https://www.linkedin.com/in/itzdheerajsingh/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/barnamenevisiadmin/">
+<a href="https://t.me/itsmrdheeraj/">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/rzashakeri">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
 
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
-
+welcome to my GitHub Page. I am Dheeraj singh and now Computer engineering student, 
+ 🚀 Dheeraj Singh | Java Developer Enthusiast 
+ 🌱 Learning Journey: Diving deeper into Advanced Java and exploring the MERN Stack 
+ 👯 Collaboration Goals: Excited to work on practical projects with developers & innovative teams 
+ 💬 Topics I Enjoy: Backend development, MERN stack, and solving real-world tech challenges 
+ 📫 Let’s Connect: ✉️ itzdheerajsingh@gmail.com 
+ 😄 Pronouns: He/Him 
+ ⚡ Fun Side of Me: Tech isn’t just my passion—it feels like tech chose me too! 
+ 💻✨ ✨ Constantly driven to learn, grow, and contribute to meaningful projects. Always open to building something impactful together. make t short notches much text
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -171,7 +171,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrdheeraj1&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -179,7 +179,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
@@ -187,31 +187,31 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <img src="https://wakatime.com/share/@mrdheeraj1/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
   <br/>
   <br/>
   <br/>
 
-  <img src="https://wakatime.com/share/@rzashakeri/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+  <img src="https://wakatime.com/share/@mrdheeraj1/b43da924-55df-4315-897d-e4dd9fb798f9.png">
 </details>
 
 
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
-  <a href="https://github.com/rzashakeri/Lorem-Farsi">
+  <a href="https://github.com/mrdheeraj1/Lorem-Farsi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
 </a>
   <br/>
   <br/>
  
-   <a href="https://github.com/rzashakeri/Happier">
+   <a href="https://github.com/mrdheeraj1/Happier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
 </a>
   <br/>
   <br/>
  
-   <a href="https://github.com/rzashakeri/telegram-bot-template">
+   <a href="https://github.com/mrdheeraj1/telegram-bot-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
  </a>
 
@@ -219,7 +219,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
    <br/>
   <br/>
  
-   <a href="https://github.com/rzashakeri/personal-site">
+   <a href="https://github.com/mrdheeraj1/personal-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
  </a>
  
@@ -227,7 +227,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
 ## Recent GitHub Activity ✅
 
-![Metrics](https://metrics.lecoq.io/rzashakeri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
+![Metrics](https://metrics.lecoq.io/mrdheeraj1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
 
 ## GitHub Profile Trophy 🏆
 
