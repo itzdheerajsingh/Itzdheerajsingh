@@ -1,14 +1,10 @@
 <img src="https://github.com/MrDheeraj1/MrDheeraj1/blob/main/VID_20250818_010610%20(1).gif#:~:text=VID_20250818_010610,-(1).gif" alt="👋 Hi there! I'm Dheeraj Singh" title="👋 Hi there! I'm Dheeraj Singh"/>
-## 👋  Hi there!  I'm  Dheeraj 
 
-<h> Welcome to my GitHub Page. I am Computer science undergrad
- - 🚀 Dheeraj Singh | Java Developer Enthusiast 
- - 🌱 Learning Journey: Diving deeper into Advanced Java and exploring the MERN Stack 
- -  👯 Collaboration Goals: Excited to work on practical projects with developers & innovative teams 
- - 💬 Topics I Enjoy: Backend development, MERN stack, and solving real-world tech challenges 
- - 📫 Let’s Connect: ✉️ itzdheerajsingh@gmail.com 
- - 😄 Pronouns: He/Him 
- - ⚡ Fun Side of Me: Tech isn’t just my passion—it feels like tech chose me too! 
+ - **🚀 Dheeraj Singh | Java Developer | MERN Stack**
+ - 🌱 Learning Journey: Advanced Java & MERN Stack 
+ -  👯 Collaboration Goals: Fullstack projects 
+ - ⚡**Tech isn’t just my passion—it feels like tech chose me too!**
+ -  📫 Let’s Connect: ✉️ itzdheerajsingh@gmail.com 
 </h>
 
 ## Social Handles 🌐
@@ -173,4 +169,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrdheeraj1&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
