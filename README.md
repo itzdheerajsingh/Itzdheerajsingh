@@ -105,30 +105,45 @@
 
 ## Github stats 📊
 
+
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mrdheeraj1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=mrdheeraj1&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mrdheeraj1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdheeraj1&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="mrdheeraj1's Github Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=mrdheeraj1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
+         height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="mrdheeraj1's Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdheeraj1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" 
+         height="192px"/>
+  </a>
+</p>
   <br/>
+
+ 
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>📈 Activity Graph</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrdheeraj1&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dheeraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrdheeraj1&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
 
 
-<details>
-  <summary>Profile Views 👁️</summary>
+  <details>
+  <summary>👁️ Profile Views</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</details>
 
 </details>
+
 
 
 
@@ -141,13 +156,7 @@
 
 
   <br/>
-  <br/>
- 
-   <a href="https://github.com/mrdheeraj1/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
+  
  
  </details>
 
