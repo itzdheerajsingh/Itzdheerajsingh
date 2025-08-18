@@ -1,4 +1,4 @@
-<img src="https://github.com/MrDheeraj1/MrDheeraj1/blob/main/VID_20250818_010610%20(1).gif#:~:text=VID_20250818_010610,-(1).gif" alt="👋 Hi there! I'm Dheeraj Singh" title="👋 Hi there! I'm Dheeraj Singh"/>
+<img src="https://github.com/MrDheeraj1/MrDheeraj1/blob/main/Make_a_small_202508180059_aqqxb(1)%20(online-video-cutter.gif" alt="👋 Hi there! I'm Dheeraj Singh" title="👋 Hi there! I'm Dheeraj Singh"/>
 
  - **🚀 Dheeraj Singh | Java Developer | MERN Stack**
  - 🌱 Learning Journey: Advanced Java & MERN Stack 
