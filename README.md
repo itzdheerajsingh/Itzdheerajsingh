@@ -130,7 +130,10 @@
   <summary>📈 Activity Graph</summary>
   <br/>
 
-[![Dheeraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrdheeraj1&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdheeraj1&theme=react-dark&hide_border=true&area=true" />
+</a>
 
 </details>
 
@@ -139,7 +142,7 @@
   <details>
   <summary>👁️ Profile Views</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </details>
 
 </details>
