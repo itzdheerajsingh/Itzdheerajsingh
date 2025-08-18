@@ -1,4 +1,4 @@
-<img src="https://github.com/MrDheeraj1/MrDheeraj1/blob/main/Make_a_small_202508180059_aqqxb(1)%20(online-video-cutter.gif" alt="👋 Hi there! I'm Dheeraj Singh" title="👋 Hi there! I'm Dheeraj Singh"/>
+<img src="https://github.com/MrDheeraj1/MrDheeraj1/blob/main/Make_a_small_202508180059_aqqxb(1)%20(online-video-cutter.gif" alt="👋 Hey there! I'm Dheeraj Singh" title="👋 Hey there! I'm Dheeraj Singh"/>
 
  - **🚀 Dheeraj Singh | Java Developer | MERN Stack**
  - 🌱 Learning Journey: Advanced Java & MERN Stack 
@@ -164,7 +164,14 @@
 
 ![Metrics](https://metrics.lecoq.io/mrdheeraj1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
 
-## GitHub Profile Trophy 🏆
+## 🏆 GitHub Profile Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrdheeraj1&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrdheeraj1&theme=algolia&row=1&margin-w=22&margin-h=22&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+
 
