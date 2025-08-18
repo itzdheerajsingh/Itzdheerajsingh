@@ -135,9 +135,10 @@
 <details>
   <summary>Extra Pins 📌</summary>
   <br/>
-  <a href="https://github.com/mrdheeraj1/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=Lorem-Farsi&theme=default" />
+  <a href="https://github.com/mrdheeraj1/random-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=random-web&theme=default" />
 </a>
+
   <br/>
   <br/>
  
