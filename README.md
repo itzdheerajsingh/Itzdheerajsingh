@@ -136,8 +136,9 @@
   <summary>Extra Pins 📌</summary>
   <br/>
   <a href="https://github.com/mrdheeraj1/random-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=random-web&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=random-web&theme=onedark" />
 </a>
+
 
   <br/>
   <br/>
@@ -148,19 +149,7 @@
   <br/>
   <br/>
  
-   <a href="https://github.com/mrdheeraj1/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rmrdheeraj1&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/mrdheeraj1/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
- </a>
- 
-</details>
+ </details>
 
 ## Recent GitHub Activity ✅
 
