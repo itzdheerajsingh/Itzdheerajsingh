@@ -1,6 +1,6 @@
 <img src="https://github.com/MrDheeraj1/MrDheeraj1/blob/main/Make_a_small_202508180059_aqqxb(1)%20(online-video-cutter.gif" alt="👋 Hey there! I'm Dheeraj Singh" title="👋 Hey there! I'm Dheeraj Singh"/>
 
- - **🚀 Dheeraj Singh | Java Developer | MERN Stack**
+ - 🚀 Dheeraj Singh | Java Developer | MERN Stack
  - 🌱 Learning Journey: Advanced Java & MERN Stack 
  -  👯 Collaboration Goals: Fullstack projects 
  - ⚡**Tech isn’t just my passion—it feels like tech chose me too!**
