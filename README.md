@@ -106,9 +106,23 @@
 
 
 <details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <p align="center">
+ <summary>⚡ GitHub Profile Stats 💻</summary>
+<br/>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Java+%2B+MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" height="3px"/>
+</p>
+
+<!-- GitHub Stats & Top Languages -->
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="mrdheeraj1's Github Stats" 
          src="https://github-readme-stats.vercel.app/api?username=mrdheeraj1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
@@ -120,7 +134,16 @@
          height="192px"/>
   </a>
 </p>
-  <br/>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdheeraj1&theme=tokyonight&hide_border=true" height="192px"/>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" height="3px"/>
+</p>
 
  
 </details>
