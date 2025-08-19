@@ -5,7 +5,7 @@
  -  👯 Collaboration Goals: Fullstack projects 
  - ⚡**Tech isn’t just my passion—it feels like tech chose me too!**
  -  📫 Let’s Connect on given below social media
-</h>
+
 
 ## Social Handles 🌐
 <div align="justify">
@@ -143,8 +143,6 @@
   <summary>👁️ Profile Views</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</details>
-
 </details>
 
 
