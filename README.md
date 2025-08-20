@@ -57,10 +57,12 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65"/>
+  <br>Git
+</td>
+
+
+   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
@@ -100,9 +102,10 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="AJAX" />
       <br>AJAX
     </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-json-data-interchange-format-data-structure-color-tal-revivo.png" width="48" height="48" alt="JSON" />
-      <br>JSON
+   <td align="center" width="96">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-json-data-interchange-format-data-structure-color-tal-revivo.png" width="65" height="65" alt="JSON" />
+  <br>JSON
+</td>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -113,10 +116,11 @@
       <br>Express
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-rest-api-api-flaticons-lineal-color-flat-icons.png" width="48" height="48" alt="REST API" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <br>REST API
+</td>
+
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
