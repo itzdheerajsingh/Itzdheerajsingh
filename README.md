@@ -131,7 +131,7 @@
 
 
 <details>
- <summary>⚡ GitHub Profile Stats 💻</summary>
+ <summary> 💻 GitHub Profile Stats</summary>
 <br/>
 
 <!-- Typing Animation -->
@@ -174,7 +174,7 @@
 </details>
 
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary>📈 Activity Graph </summary>
   <br/>
 
 
@@ -187,7 +187,7 @@
 
 
   <details>
-  <summary>👁️ Profile Views</summary>
+  <summary> 👁️ Profile Views </summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </details>
@@ -196,7 +196,7 @@
 
 
 <details>
-  <summary>Extra Pins 📌</summary>
+  <summary>📌 Extra Pins  </summary>
   <br/>
   <a href="https://github.com/mrdheeraj1/random-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=random-web&theme=onedark" />
@@ -208,7 +208,9 @@
  
  </details>
 
-### 🔥 Recent GitHub Activity ✅
+ <details>
+  <summary>✅ Recent GitHub Activity  </summary>
+  <br/>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
@@ -218,6 +220,7 @@
 5. 🎉 Merged PR [#4](https://github.com/MrDheeraj1/for_github/pull/4) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
 <!--END_SECTION:activity-->
 
+ </details>
 
 ## 🏆 GitHub Profile Trophies  
 
