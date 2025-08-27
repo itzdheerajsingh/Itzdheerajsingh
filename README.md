@@ -198,8 +198,8 @@
 <details>
   <summary>📌 Extra Pins  </summary>
   <br/>
-  <a href="https://github.com/mrdheeraj1/random-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=random-web&theme=onedark" />
+  <a href="https://github.com/mrdheeraj1/Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=java&theme=onedark" />
 </a>
 
 
