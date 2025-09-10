@@ -7,34 +7,45 @@
  -  📫 Let’s Connect through my social handles👇
 
 ## Social Handles 🌐
-<div align="justify">
-<a href="https://www.linkedin.com/in/itzdheerajsingh/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.leetcode.com/mrdheeraj/">
-<img src="https://img.shields.io/badge/leetcode-8B4513.svg?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.instagram.com/_.mrdheeraj/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.x.com/mrdheeraj_/">
-<img src="https://img.shields.io/badge/x-000000.svg?style=for-the-badge&logo=x&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:itzdheerajsingh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://t.me/itsmrdheeraj/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-<p></p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/itzdheerajsingh/">
+        <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.leetcode.com/itzdheerajsingh/">
+        <img src="https://img.shields.io/badge/LeetCode-8B4513.svg?style=for-the-badge&logo=leetcode&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/YOUR_DISCORD_ID">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.x.com/mrdheeraj_/">
+        <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:itzdheerajsingh@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/itsmrdheeraj/">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/_.mrdheeraj/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## Tech Stack ⚙️
@@ -150,19 +161,19 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="mrdheeraj1's Github Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=mrdheeraj1&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
+         src="https://github-readme-stats.vercel.app/api?username=itzdheerajsingh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
          height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="mrdheeraj1's Top Languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdheeraj1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" 
          height="192px"/>
   </a>
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdheeraj1&theme=tokyonight&hide_border=true" height="192px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzdheerajsingh&theme=tokyonight&hide_border=true" height="192px"/>
 </p>
 
 <!-- Animated Divider -->
