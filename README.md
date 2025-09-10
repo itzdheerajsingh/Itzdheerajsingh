@@ -20,7 +20,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://discord.com/users/YOUR_DISCORD_ID">
+      <a href="https://discord.com/users/mrdheeraj">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
       </a>
     </td>
@@ -160,12 +160,12 @@
 <!-- GitHub Stats & Top Languages -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="mrdheeraj1's Github Stats" 
+    <img alt="itzdheerajsingh's Github Stats" 
          src="https://github-readme-stats.vercel.app/api?username=itzdheerajsingh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
          height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="mrdheeraj1's Top Languages" 
+    <img alt="itzdheerajsingh's Top Languages" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" 
          height="192px"/>
   </a>
@@ -190,7 +190,7 @@
 
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdheeraj1&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdheerajsingh&theme=react-dark&hide_border=true&area=true" />
 </a>
 
 </details>
@@ -200,7 +200,7 @@
   <details>
   <summary> 👁️ Profile Views </summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=mrdheeraj1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itzdheerajsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </details>
 
 
@@ -210,7 +210,7 @@
   <summary>📌 Extra Pins  </summary>
   <br/>
   <a href="https://github.com/mrdheeraj1/Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrdheeraj1&repo=java&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzdheerajsingh&repo=java&theme=onedark" />
 </a>
 
 
@@ -224,18 +224,18 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
-2. 💪 Opened PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
-3. 🎉 Merged PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
-4. 💪 Opened PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
-5. 🎉 Merged PR [#4](https://github.com/MrDheeraj1/for_github/pull/4) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
+1.  Merged PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
+2.  Opened PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
+3.  Merged PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
+4.  Opened PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
+5.  Merged PR [#4](https://github.com/MrDheeraj1/for_github/pull/4) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
 <!--END_SECTION:activity-->
 
  </details>
 
 ## 🏆 GitHub Profile Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrdheeraj1&theme=algolia&row=1&margin-w=22&margin-h=22&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itzdheerajsingh&theme=algolia&row=1&margin-w=22&margin-h=22&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
