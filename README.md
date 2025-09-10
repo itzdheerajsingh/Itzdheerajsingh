@@ -225,11 +225,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1.  Merged PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
-2.  Opened PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
-3.  Merged PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
-4.  Opened PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
-5.  Merged PR [#4](https://github.com/MrDheeraj1/for_github/pull/4) in [MrDheeraj1/for_github](https://github.com/itzdheerajsingh/for_github)
+1. 🎉 Merged PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
+2. 💪 Opened PR [#7](https://github.com/MrDheeraj1/for_github/pull/7) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
+3. 🎉 Merged PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
+4. 💪 Opened PR [#6](https://github.com/MrDheeraj1/for_github/pull/6) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
+5. 🎉 Merged PR [#4](https://github.com/MrDheeraj1/for_github/pull/4) in [MrDheeraj1/for_github](https://github.com/MrDheeraj1/for_github)
 <!--END_SECTION:activity-->
 
  </details>
