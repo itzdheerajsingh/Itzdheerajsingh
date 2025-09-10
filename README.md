@@ -165,10 +165,11 @@
          height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="itzdheerajsingh's Top Languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" 
-         height="192px"/>
-  </a>
+  <img alt="itzdheerajsingh's Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=20&layout=compact&theme=tokyonight&hide_border=true"
+       height="192px"/>
+</a>
+
 </p>
 
 <!-- Streak Stats -->
