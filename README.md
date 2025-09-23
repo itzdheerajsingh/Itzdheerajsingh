@@ -170,11 +170,15 @@
 
 
 
-  <details>
+<details>
   <summary> 👁️ Profile Views </summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=itzdheerajsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/itzdheerajsingh" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=itzdheerajsingh&label=GitHub%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="GitHub Profile Views" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="35" style="margin-left:10px;"/>
+  </a>
 </details>
+
 
 
 
@@ -218,12 +222,18 @@
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/27c9f63571ad41d7936ea2b764dcfe391092f1285da7f2c8816d044412e28825/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44344431324151452d35512d65764e7a5232512f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313638383436373530313730363f653d3231343734383336343726763d6265746126743d7768503753684250734b4377584c5f4258587830474c344e664b325738796c57435f70414b6b6e62524455" data-canonical-src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&amp;v=beta&amp;t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" style="max-width: 100%;">
 
 <a href="https://github.com/Itzdheerajsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<!-- <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> -->
 
+<!-- <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" 
+     alt="MasterHead" 
+     style="width: 100%; height: 250px; object-fit: cover; display: block; margin: auto;"> -->
 
+<!-- Line above -->
+<hr style="border: 1px solid #444;">
 
-
-
-
-
-
-
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" 
+       alt="MasterHead" 
+       style="width: 100%; height: 250px; object-fit: cover; display: block; margin: auto;">
+</p>
