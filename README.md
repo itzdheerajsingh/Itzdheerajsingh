@@ -145,55 +145,26 @@
 <details>
  <summary> 💻 GitHub Profile Stats</summary>
 <br/>
+<table>
+  <tr>
+    <!-- Left side (Coding image) -->
+    <td>
+      <img src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" alt="Coding" width="400"/>
+    </td>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Java+%2B+MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
+  <!-- Right side (Stats + Languages stacked) -->
+   <td>
+      <a href="http://www.github.com/itzdheerajsingh">
+        <img src="https://github-readme-stats.vercel.app/api?username=itzdheerajsingh&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true" alt="GitHub stats" />
+      </a>
+      <br/>
+      <a href="https://github.com/Itzdheerajsingh">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" height="3px"/>
-</p>
-
-<!-- GitHub Stats & Top Languages -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="itzdheerajsingh's Github Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=itzdheerajsingh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
-         height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="itzdheerajsingh's Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=20&layout=compact&theme=tokyonight&hide_border=true"
-       height="192px"/>
-</a>
-
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzdheerajsingh&theme=tokyonight&hide_border=true" height="192px"/>
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" height="3px"/>
-</p>
-
- 
-</details>
-
-<details>
-  <summary>📈 Activity Graph </summary>
-  <br/>
-
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdheerajsingh&theme=react-dark&hide_border=true&area=true" />
-</a>
 
 </details>
 
@@ -238,6 +209,16 @@
 ## 🏆 GitHub Profile Trophies  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=itzdheerajsingh&theme=algolia&row=1&margin-w=22&margin-h=22&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/itzdheerajsingh"><img src="https://github-readme-stats.vercel.app/api?username=itzdheerajsingh&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&show_icons=true" alt="itzdheerajsingh's GitHub stats" /></a>
+
+
+<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/27c9f63571ad41d7936ea2b764dcfe391092f1285da7f2c8816d044412e28825/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44344431324151452d35512d65764e7a5232512f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313638383436373530313730363f653d3231343734383336343726763d6265746126743d7768503753684250734b4377584c5f4258587830474c344e664b325738796c57435f70414b6b6e62524455" data-canonical-src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&amp;v=beta&amp;t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" style="max-width: 100%;">
+
+<a href="https://github.com/Itzdheerajsingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
 
 
 
