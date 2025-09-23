@@ -184,17 +184,14 @@
 
 
 <details>
-  <summary>📌 Extra Pins  </summary>
+  <summary>📌 Extra Pins</summary>
   <br/>
-  <a href="https://github.com/mrdheeraj1/Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzdheerajsingh&repo=java&theme=onedark" />
-</a>
-
-
+  <a href="https://github.com/itzdheerajsingh/Java">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itzdheerajsingh&repo=Java&theme=onedark" />
+  </a>
   <br/>
-  
- 
- </details>
+</details>
+
 
  <details>
   <summary>✅ Recent GitHub Activity  </summary>
