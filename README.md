@@ -152,14 +152,15 @@
       <img src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" alt="Coding" width="400"/>
     </td>
 
-  <!-- Right side (Stats + Languages stacked) -->
+  <!-- Right side (Stats ) -->
    <td>
       <a href="http://www.github.com/itzdheerajsingh">
         <img src="https://github-readme-stats.vercel.app/api?username=itzdheerajsingh&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true" alt="GitHub stats" />
       </a>
       <br/>
+      <!-- Right side (Languages stacked) -->
       <a href="https://github.com/Itzdheerajsingh">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=10&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
       </a>
     </td>
   </tr>
