@@ -112,13 +112,15 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="AJAX" />
-      <br>AJAX
+      <br>jQuery
     </td>
-   <td align="center" width="96">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-json-data-interchange-format-data-structure-color-tal-revivo.png" width="65" height="65" alt="JSON" />
-  <br>JSON
+ <td align="center" width="96">
+  <img src="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg" width="48" height="48" alt="GSAP" />
+  <br>GSAP
 </td>
-    </td>
+
+
+   </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
