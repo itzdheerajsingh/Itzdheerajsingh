@@ -162,7 +162,7 @@
       <br/>
       <!-- Right side (Languages stacked) -->
       <a href="https://github.com/Itzdheerajsingh">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=10&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdheerajsingh&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
       </a>
     </td>
   </tr>
