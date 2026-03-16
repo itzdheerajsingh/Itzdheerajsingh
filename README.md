@@ -26,7 +26,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.x.com/mrdheeraj_/">
+      <a href="https://www.x.com/itzdheerajsingh/">
         <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white">
       </a>
     </td>
@@ -41,7 +41,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/_.mrdheeraj/">
+      <a href="https://www.instagram.com/mrdheeraj._/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
     </td>
